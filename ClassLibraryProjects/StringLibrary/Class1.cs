@@ -1,5 +1,6 @@
 ﻿namespace UtilityLibraries;
 
+// Test pull request workflow
 public static class StringLibrary
 {
     public static bool StartsWithUpper(this string? str)
