@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringLibrary", "StringLibrary.csproj", "{70BB4620-A6EF-4084-9E06-3E58A6E1DBB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringLibraryTest", "StringLibraryTest\StringLibraryTest.csproj", "{3EB3D297-3CB3-43F4-9220-558E5E074822}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70BB4620-A6EF-4084-9E06-3E58A6E1DBB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70BB4620-A6EF-4084-9E06-3E58A6E1DBB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70BB4620-A6EF-4084-9E06-3E58A6E1DBB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70BB4620-A6EF-4084-9E06-3E58A6E1DBB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EB3D297-3CB3-43F4-9220-558E5E074822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EB3D297-3CB3-43F4-9220-558E5E074822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EB3D297-3CB3-43F4-9220-558E5E074822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EB3D297-3CB3-43F4-9220-558E5E074822}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
